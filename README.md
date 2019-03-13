@@ -25,7 +25,7 @@ This is a project to help customers manage their clinics using C# and SQL Server
 
 ## Members
 
-Huỳnh Quốc An
-Trương Nguyễn Tuấn Nam
-Nguyễn Đức Minh Nguyên
-Phan Anh Khoa
+- Huỳnh Quốc An
+- Trương Nguyễn Tuấn Nam
+- Nguyễn Đức Minh Nguyên
+- Phan Anh Khoa
