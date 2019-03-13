@@ -10,4 +10,11 @@ This is a project to help customers manage their clinics.
 
 ## WIP     
 
+Diliverables
 Documents
+Letter
+Minutes
+Plan
+Report
+Source
+Users
