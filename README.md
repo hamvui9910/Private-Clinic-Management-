@@ -1,6 +1,9 @@
+## University of Infomation Technology
+## Software Engineering Falculity
+
 # Private Clinic Management
 
-This is a project to help customers manage their clinics using C# and SQL.
+This is a project to help customers manage their clinics using C# and SQL Server 2017 Management.
 
 ## ARCHIVE
 
@@ -10,12 +13,5 @@ This is a project to help customers manage their clinics using C# and SQL.
 
 ## WIP     
 
-Diliverables
-Documents
-Letter
-Minutes
-Plan
-Report
-Source
-Users
+
 
