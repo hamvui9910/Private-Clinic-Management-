@@ -1,5 +1,5 @@
 # University of Infomation Technology
-# Software Engineering Falculity
+# Software Engineering Faculty
 
 
 
