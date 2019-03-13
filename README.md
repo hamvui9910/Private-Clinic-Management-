@@ -7,9 +7,6 @@
 
 This is a project to help customers manage their clinics using C# and SQL Server 2017 Management.
 
-## Services:
-
-+ 
 
 ## ARCHIVE
 
