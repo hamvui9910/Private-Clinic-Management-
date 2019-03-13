@@ -2,12 +2,12 @@
 
 This is a project to help customers manage their clinics.
 
-##ARCHIVE
+## ARCHIVE
 
-##AUDIT
+## AUDIT
 
-##REFERENCE
+## REFERENCE
 
-##WIP     
+## WIP     
 
 Documents
