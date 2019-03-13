@@ -1,4 +1,4 @@
-# Private-Clinic-Management
+# Private Clinic Management
 
 This is a project to help customers manage their clinics.
 
