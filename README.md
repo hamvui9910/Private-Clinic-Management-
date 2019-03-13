@@ -1,6 +1,6 @@
 # Private Clinic Management
 
-This is a project to help customers manage their clinics.
+This is a project to help customers manage their clinics using C# and SQL.
 
 ## ARCHIVE
 
