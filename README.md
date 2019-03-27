@@ -8,15 +8,13 @@
 This is a project to help customers manage their clinics using C# and SQL Server 2017 Management.
 
 
-## ARCHIVE
-
-## AUDIT
-
-## REFERENCE
-
-## WIP     
-
-
+## Functions
+### Create patients list
+### Create sheet
+### Search patients' information
+### Create payment bill
+### Create monthly report
+### Change rule
 
 
 
