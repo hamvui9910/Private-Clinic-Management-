@@ -1,9 +1,10 @@
 # Private Clinic Management
 
-```Based on the need of personal healthcare of many peole, plenty of private clinics opened to response that need.
+`
+Based on the need of personal healthcare of many peole, plenty of private clinics opened to response that need.
 To help one who wanted to start their private clinics, we developiing a software that can help them manage it comfortably.
 This software can help customers manage their clinics from creating patient lists to changing rules that make your work more comfortable. (*Work in process*)
-```
+`
 
 ## Functions
 - Create healthcare lists
