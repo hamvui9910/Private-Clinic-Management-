@@ -1,10 +1,9 @@
+## University of Information Technology
+### Sofware Engineering Faculty
+
 # Private Clinic Management
 
-`
-Based on the need of personal healthcare of many peole, plenty of private clinics opened to response that need.
-To help one who wanted to start their private clinics, we developiing a software that can help them manage it comfortably.
-This software can help customers manage their clinics from creating patient lists to changing rules that make your work more comfortable. (*Work in process*)
-`
+- This is a simple, easy to use program of Private Clinic Management for school project, using C# and SQL Serrver.
 
 ## Functions
 - Create healthcare lists
