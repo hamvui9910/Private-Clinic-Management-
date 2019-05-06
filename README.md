@@ -71,5 +71,5 @@ This software can help customers manage their clinics from creating patient list
 | STT | Họ Tên | MSSV |
 | --- | --- | --- |
 | 1 | Huỳnh Quốc An | 17520207 |
-| 2 | Nguyễn Đức Minh Nguyên | 175202823 |
+| 2 | Nguyễn Đức Minh Nguyên | 17520823 |
 | 3 | Trương Nguyễn Tuấn Nam | 17520785 |
