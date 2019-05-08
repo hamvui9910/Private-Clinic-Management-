@@ -6,34 +6,18 @@
 - This is a simple, easy to use program of Private Clinic Management for school project, using C# and SQL Serrver.
 
 ## Functions
-- Create healthcare lists
-- Create patients lists
-- Create sheets
-- Search patient's informations
-- Create payment bills
-- Create monthly reports
-- Change rules
-- (*Work in process*)
+| STT | Features | Form | Regulation | Notes |
+| --- | ------- | ---- | ---------- | ----- |
+|  1 | Create healthcare lists | Form 1 | Regulation 1 | |
+|  2 | Create healthcare sheets | Form 2 | Regulation 2 | |
+|  3 | Search for patients | Form 3 | | |
+|  4 | Create payment billings | Form 4 | Regulation 4 | |
+|  5 | Create monthly reports | Form 5 | |
+|  6 | Change regulations | | Regulation 6 | |
+
 
 ## FDD
-```
-                                       |-----------------------|
-                                       | Quản lý phòng mạch tư |
-                                       |-----------------------|
-                                                    |
-                                                    |
-                                                    |
-        ---------------------------------------------------------------------------------------
-        |                        |               |                 |              |           |
-        |                        |               |                 |              |           |
-|---------------|     |---------------------|    |    |------------------------|  |  |-------------------|
-| Lập danh sách |     | Lập phiếu khám bệnh |    |    | Lập hóa đơn thanh toán |  |  | Thay đổi quy định |
-|   khám bệnh   |     |---------------------|    |    |------------------------|  |  |-------------------|
-|---------------|                                |                                |
-                                       |-------------------|            |-------------------|
-                                       | Tra cứu bệnh nhân |            | Lập báo cáo tháng |
-                                       |-------------------|            |-------------------|
-```
+![Funtional Decomposition Diagram](https://imgur.com/xl87nOk)
 
 ### Example:
 #### Healthcare List Table
@@ -72,3 +56,4 @@
 | 1 | Huỳnh Quốc An | 17520207 |
 | 2 | Nguyễn Đức Minh Nguyên | 17520823 |
 | 3 | Trương Nguyễn Tuấn Nam | 17520785 |
+| 4 | Phan Anh Khoa | 17520645 |
