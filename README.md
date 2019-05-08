@@ -17,7 +17,7 @@
 
 
 ## FDD
-![Funtional Decomposition Diagram](https://imgur.com/xl87nOk)
+![Funtional Decomposition Diagram](https://i.imgur.com/xl87nOk.png)
 
 ### Example:
 #### Healthcare List Table
