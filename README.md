@@ -8,12 +8,12 @@
 ## Functions
 | STT | Features | Form | Regulation | Notes |
 | --- | ------- | ---- | ---------- | ----- |
-|  1 | Create healthcare lists | Form 1 | Regulation 1 | |
-|  2 | Create healthcare sheets | Form 2 | Regulation 2 | |
-|  3 | Search for patients | Form 3 | | |
-|  4 | Create payment billings | Form 4 | Regulation 4 | |
-|  5 | Create monthly reports | Form 5 | |
-|  6 | Change regulations | | Regulation 6 | |
+|  1  | Create healthcare lists | Form 1 | Regulation 1 | |
+|  2  | Create healthcare sheets | Form 2 | Regulation 2 | |
+|  3  | Search for patients | Form 3 | | |
+|  4  | Create payment billings | Form 4 | Regulation 4 | |
+|  5  | Create monthly reports | Form 5 | |
+|  6  | Change regulations | | Regulation 6 | |
 
 
 ## FDD
@@ -31,7 +31,7 @@
 - Processor: AMD Dual-Core C50 1GHz
 - Memory: 4GB
 - Storage: ...
-- VGA: Not required
+- VGA: Intergrated Graphic Card 
 - OS: Windows 7 64-bit
 - Internet access
 
@@ -50,10 +50,18 @@
 ## Work in process
 ----------------------------
 
-## Members
-| STT | Họ Tên | MSSV |
+## Authors
+| No. | Full Name | Student ID |
 | --- | --- | --- |
 | 1 | Huỳnh Quốc An | 17520207 |
 | 2 | Nguyễn Đức Minh Nguyên | 17520823 |
 | 3 | Trương Nguyễn Tuấn Nam | 17520785 |
 | 4 | Phan Anh Khoa | 17520645 |
+
+## Source Code
+*Work in process*
+
+## Preview
+*Work in process*
+
+#### VNU HCM-UIT
