@@ -1,1 +1,1 @@
-SQLCMD -S xxx -E -i createDBQLPM.sql
+SQLCMD -S DESKTOP-TU30VPA -E -i createDBQLPM.sql
