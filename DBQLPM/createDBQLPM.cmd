@@ -1,1 +1,0 @@
-SQLCMD -S xxx -E -i createDBQLPM.sql
