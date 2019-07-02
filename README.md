@@ -28,10 +28,10 @@
 |           2           | Nguyễn Văn B |    Nữ    |   19xx   | 456 Đường B, phường C, quận D, TP E |
 
 ## System Requirement
-### Minimun:
+### Minimum:
 - Processor: AMD Dual-Core C50 1GHz
 - Memory: 4GB
-- Storage: ...
+- Storage: 1GB of storage
 - VGA: Intergrated Graphic Card 
 - OS: Windows 7 64-bit
 - Internet access
