@@ -24,8 +24,8 @@ CREATE TABLE [dbo].[DanhSachBenhNhan](
 	[BN_diachi] [varchar](50) NOT NULL,
 	[BN_sdt] [char](10) NOT NULL,
 	[BN_ngaykham] [char](10) NOT NULL,
-	[BN_loaibenh] [varchar](50) NOT NULL,
-	[BN_trieuchung] [varchar](100) NOT NULL,
+	[BN_loaibenh] [varchar](50) NULL,
+	[BN_trieuchung] [varchar](100) NULL,
  CONSTRAINT [PK_DanhSachBenhNhan] PRIMARY KEY CLUSTERED 
 (
 	[BN_maBN] ASC
