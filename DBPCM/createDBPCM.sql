@@ -60,17 +60,14 @@ PRIMARY KEY CLUSTERED
 	[maQD] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY]
-GO
-USE [master]
-GO
-ALTER DATABASE [DBPCM] SET  READ_WRITE 
+
 GO
 
-create table Thuoc
+CREATE TABLE Thuoc
 (
-	ID int identity(1,1) primary key,
-	tenThuoc varchar(50),
-	giaThuoc decimal
+	ID int identity(1,1) PRIMARY KEY NOT NULL,
+	tenThuoc varchar(50) NOT NULL,
+	giaThuoc decimal NOT NULL
 )
 
 SET IDENTITY_INSERT [dbo].[Thuoc] ON
