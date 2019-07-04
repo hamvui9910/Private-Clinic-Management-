@@ -104,13 +104,11 @@ INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (30,'E-cox 90','
 SET IDENTITY_INSERT [dbo].[Thuoc] OFF
 GO
 
-select * from Thuoc
-
-create table HoaDon
+CREATE TABLE HoaDon
 (
-	maHD char(6) primary key,
-	ngaytao smalldatetime,
-	tenBN varchar(50),
-	tienthuoc decimal,
-	tongcong decimal
+	maHD char(6) PRIMARY KEY NOT NULL,
+	ngaytao smalldatetime NOT NULL,
+	tenBN varchar(50) NOT NULL,
+	tienthuoc decimal NOT NULL,
+	tongcong decimal NOT NULL
 )
