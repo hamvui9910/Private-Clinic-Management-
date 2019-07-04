@@ -117,6 +117,3 @@ create table HoaDon
 	tienthuoc decimal,
 	tongcong decimal
 )
-
-select * from HoaDon
-
