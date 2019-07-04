@@ -33,7 +33,7 @@ CREATE TABLE DanhSachBenhNhan
 GO
 CREATE TABLE HoaDon
 (
-	maHD char(6) identity(1,1) PRIMARY KEY NOT NULL,
+	maHD char(6) PRIMARY KEY NOT NULL,
 	ngaytao smalldatetime NOT NULL,
 	tenBN varchar(50) NOT NULL,
 	tienthuoc decimal NOT NULL,
@@ -54,7 +54,7 @@ GO
 
 CREATE TABLE Thuoc
 (
-	ID int identity(1,1) PRIMARY KEY NOT NULL,
+	ID int IDENTITY(1,1) PRIMARY KEY NOT NULL,
 	tenThuoc varchar(50) NOT NULL,
 	giaThuoc decimal NOT NULL
 )
