@@ -11,55 +11,44 @@ BEGIN
     DROP DATABASE [QLTC]
 END
 GO
-CREATE DATABASE [DBPCM]
+CREATE DATABASE DBPCM
 GO
-USE [DBPCM]
+USE DBPCM
 GO
 /****** Object:  Table [dbo].[DanhSachBenhNhan]    Script Date: 6/27/2019 1:49:14 PM ******/
-CREATE TABLE [dbo].[DanhSachBenhNhan](
-	[BN_maBN] [char](10) NOT NULL,
-	[BN_hoten] [varchar](50) NOT NULL,
-	[BN_gioitinh] [char](5) NOT NULL,
-	[BN_namsinh] [char](4) NOT NULL,
-	[BN_diachi] [varchar](50) NOT NULL,
-	[BN_sdt] [char](10) NOT NULL,
-	[BN_ngaykham] [char](10) NOT NULL,
-	[BN_loaibenh] [varchar](50) NULL,
-	[BN_trieuchung] [varchar](100) NULL,
- CONSTRAINT [PK_DanhSachBenhNhan] PRIMARY KEY CLUSTERED 
+CREATE TABLE DanhSachBenhNhan
 (
-	[BN_maBN] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY]
-GO
+	BN_maBN char(10) NOT NULL PRIMARY KEY,
+	BN_hoten varchar(50) NOT NULL,
+	BN_gioitinh char(5) NOT NULL,
+	BN_namsinh char(4) NOT NULL,
+	BN_diachi varchar(50) NOT NULL,
+	BN_sdt char(10) NOT NULL,
+	BN_ngaykham char(10) NOT NULL,
+	BN_loaibenh varchar(50) NULL,
+	BN_trieuchung varchar(100) NULL,
+)
+
 /****** Object:  Table [dbo].[HoaDon]    Script Date: 6/27/2019 1:49:14 PM ******/
-SET ANSI_NULLS ON
 GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[HoaDon](
-	[maHD] [int] IDENTITY(1,1) NOT NULL,
-	[tongcong] [int] NOT NULL,
-PRIMARY KEY CLUSTERED 
+CREATE TABLE HoaDon
 (
-	[maHD] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY]
+	maHD char(6) identity(1,1) PRIMARY KEY NOT NULL,
+	ngaytao smalldatetime NOT NULL,
+	tenBN varchar(50) NOT NULL,
+	tienthuoc decimal NOT NULL,
+	tongcong decimal NOT NULL
+
+)
 GO
 /****** Object:  Table [dbo].[QuyDinh]    Script Date: 6/27/2019 1:49:14 PM ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[QuyDinh](
-	[maQD] [char](5) NOT NULL,
-	[tenQD] [char](10) NOT NULL,
-	[noidung] [varchar](1000) NOT NULL,
-PRIMARY KEY CLUSTERED 
+
+CREATE TABLE QuyDinh
 (
-	[maQD] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY]
+	maQD char(5) NOT NULL,
+	tenQD char(10) NOT NULL,
+	noidung varchar(1000) NOT NULL,
+)
 
 GO
 
@@ -102,13 +91,3 @@ INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (28,'Yuraf','900
 INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (29,'Yuraf','330');
 INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (30,'E-cox 90','3500');
 SET IDENTITY_INSERT [dbo].[Thuoc] OFF
-GO
-
-CREATE TABLE HoaDon
-(
-	maHD char(6) PRIMARY KEY NOT NULL,
-	ngaytao smalldatetime NOT NULL,
-	tenBN varchar(50) NOT NULL,
-	tienthuoc decimal NOT NULL,
-	tongcong decimal NOT NULL
-)
