@@ -65,3 +65,58 @@ USE [master]
 GO
 ALTER DATABASE [DBPCM] SET  READ_WRITE 
 GO
+
+create table Thuoc
+(
+	ID int identity(1,1) primary key,
+	tenThuoc varchar(50),
+	giaThuoc decimal
+)
+
+SET IDENTITY_INSERT [dbo].[Thuoc] ON
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (1,'Paracetamol','500');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (2,'Alaxan','910');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (3,'Decolgen','1250');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (4,'Hapacol Codein','25000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (5,'Panadol Extra','1200');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (6,'Phosphalugel','4000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (7,'Yumangel','4250');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (8,'Gastropulgite','4000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (9,'Gaviscon','5625');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (10,'Trimafort','5500');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (11,'Penicillin','3000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (12,'Amoxillin','1000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (13,'Aspirin','575');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (14,'Codein Sunfat','700');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (15,'Pepto-Bismol','400000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (16,'Domperidon','400');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (17,'Maalox','875');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (18,'Carbotrim','2000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (19,'Floctafenine','1250');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (20,'Tramadol','500');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (21,'Opioid Morphin','1150000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (22,'Fentanyl','9600');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (23,'Oxycontin','5000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (24,'Naproxen','1400');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (25,'Acetaminophen','700');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (26,'Efferalgan','3000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (27,'Tiffy','900');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (28,'Yuraf','9000');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (29,'Yuraf','330');
+INSERT INTO [dbo].[Thuoc] ([ID], [tenThuoc], [giaThuoc]) VALUES (30,'E-cox 90','3500');
+SET IDENTITY_INSERT [dbo].[Thuoc] OFF
+GO
+
+select * from Thuoc
+
+create table HoaDon
+(
+	maHD char(6) primary key,
+	ngaytao smalldatetime,
+	tenBN varchar(50),
+	tienthuoc decimal,
+	tongcong decimal
+)
+
+select * from HoaDon
+
