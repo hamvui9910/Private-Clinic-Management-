@@ -24,8 +24,8 @@
 | Ngày khám: .. / .. / .... | Danh sách Khám bệnh |   |   |   |
 | ------------------------- | ------------------- | - | - | - |
 |          Mã Bệnh Nhân          |    Họ Tên    | Giới Tính | Năm Sinh |              Địa Chỉ                |
-|           1           | Nguyễn Văn A |    Nam    |   19xx   | 123 Đường A, phường B, quận C, TP D |
-|           2           | Nguyễn Văn B |    Nữ    |   19xx   | 456 Đường B, phường C, quận D, TP E |
+|           xxxx           | Nguyễn Văn A |    Nam    |   19xx   | 123 Đường A, phường B, quận C, TP D |
+|           yyyy           | Nguyễn Văn B |    Nữ    |   19xx   | 456 Đường B, phường C, quận D, TP E |
 
 ## System Requirement
 ### Minimum:
