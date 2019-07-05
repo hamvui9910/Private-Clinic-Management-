@@ -19,14 +19,14 @@ GO
 CREATE TABLE DanhSachBenhNhan
 (
 	BN_maBN char(10) NOT NULL PRIMARY KEY,
-	BN_hoten varchar(50) NOT NULL,
+	BN_hoten nvarchar(50) NOT NULL,
 	BN_gioitinh char(5) NOT NULL,
 	BN_namsinh char(4) NOT NULL,
-	BN_diachi varchar(50) NOT NULL,
+	BN_diachi nvarchar(50) NOT NULL,
 	BN_sdt char(10) NOT NULL,
 	BN_ngaykham char(10) NOT NULL,
-	BN_loaibenh varchar(50) NULL,
-	BN_trieuchung varchar(100) NULL,
+	BN_loaibenh nvarchar(50) NULL,
+	BN_trieuchung nvarchar(100) NULL,
 )
 
 /****** Object:  Table [dbo].[HoaDon]    Script Date: 6/27/2019 1:49:14 PM ******/
@@ -35,10 +35,10 @@ CREATE TABLE HoaDon
 (
 	maHD char(6) PRIMARY KEY NOT NULL,
 	ngaytao smalldatetime NULL,
-	tenBN varchar(50) NULL,
+	tenBN nvarchar(50) NULL,
 	tienthuoc decimal(18, 0) NULL,
 	tongcong decimal(18, 0) NULL,
-	donviTinh char(10) NULL
+	donviTinh nchar(10) NULL
 
 )
 GO
@@ -59,7 +59,7 @@ CREATE TABLE ThongKe
 	maHD char(6) NULL,
 	maThuoc char(3) NULL,
 	tenThuoc varchar(50) NULL,
-	donviTinh char(10) NULL,
+	donviTinh nchar(10) NULL,
 	soLuong int NULL,
 	donGia decimal(18, 0) NULL,
 	thanhTien decimal(18, 0) NULL
@@ -71,7 +71,7 @@ CREATE TABLE Thuoc
 (
 	ID int IDENTITY(1,1) PRIMARY KEY NOT NULL,
 	tenThuoc varchar(50) NOT NULL,
-	donviTinh char(10) NOT NULL,
+	donviTinh nchar(10) NOT NULL,
 	giaThuoc decimal(10, 0) NOT NULL
 )
 
