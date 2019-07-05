@@ -1,4 +1,4 @@
-﻿USE [master]
+USE [master]
 GO
 /****** Object:  Database [DBPCM]    Script Date: 6/27/2019 1:49:13 PM ******/
 WHILE EXISTS(select NULL from sys.databases where name='DBPCM')
@@ -34,10 +34,11 @@ GO
 CREATE TABLE HoaDon
 (
 	maHD char(6) PRIMARY KEY NOT NULL,
-	ngaytao smalldatetime NOT NULL,
-	tenBN varchar(50) NOT NULL,
-	tienthuoc decimal NOT NULL,
-	tongcong decimal NOT NULL
+	ngaytao smalldatetime NULL,
+	tenBN varchar(50) NULL,
+	tienthuoc decimal(18, 0) NULL,
+	tongcong decimal(18, 0) NULL,
+	donviTinh char(10) NULL
 
 )
 GO
@@ -54,13 +55,14 @@ GO
 
 CREATE TABLE ThongKe
 (
-	maHd char(6) NOT NULL,
-	maThuoc char(10) NOT NULL,
-	tenThuoc varchar(50) NOT NULL,
-	donviTinh nchar(10) NOT NULL,
-	soLuong int NOT NULL,
-	donGia decimal NOT NULL,
-	thanhTien decimal NOT NULL
+	id int identity(1,1) primary key not null,
+	maHD char(6) NULL,
+	maThuoc char(3) NULL,
+	tenThuoc varchar(50) NULL,
+	donviTinh char(10) NULL,
+	soLuong int NULL,
+	donGia decimal(18, 0) NULL,
+	thanhTien decimal(18, 0) NULL
 )
 
 GO
@@ -70,7 +72,7 @@ CREATE TABLE Thuoc
 	ID int IDENTITY(1,1) PRIMARY KEY NOT NULL,
 	tenThuoc varchar(50) NOT NULL,
 	donviTinh char(10) NOT NULL,
-	giaThuoc decimal NOT NULL
+	giaThuoc decimal(10, 0) NOT NULL
 )
 
 SET IDENTITY_INSERT [dbo].[Thuoc] ON
