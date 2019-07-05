@@ -45,11 +45,6 @@
 - [SQL Serrver Management Studio](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - (*Work in process*)
 
-## Process
-*Work in process*
-
-## Work in process
-----------------------------
 
 ## Authors
 | No. | Full Name | Student ID |
@@ -60,9 +55,8 @@
 | 4 | Phan Anh Khoa | 17520645 |
 
 ## Source Code
-*Work in process*
+[Download SourceCode here](https://drive.google.com/file/d/1rWtjdaD7k43hBUkZ7Naq4nRg7MGFnoG1/view?usp=sharing)
 
-## Preview
-*Work in process*
+## Project done
 
 #### VNU HCM-UIT
