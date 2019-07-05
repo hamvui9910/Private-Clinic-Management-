@@ -23,7 +23,7 @@
 #### Healthcare List Table
 | Ngày khám: .. / .. / .... | Danh sách Khám bệnh |   |   |   |
 | ------------------------- | ------------------- | - | - | - |
-|          STT          |    Họ Tên    | Giới Tính | Năm Sinh |              Địa Chỉ                |
+|          Mã Bệnh Nhân          |    Họ Tên    | Giới Tính | Năm Sinh |              Địa Chỉ                |
 |           1           | Nguyễn Văn A |    Nam    |   19xx   | 123 Đường A, phường B, quận C, TP D |
 |           2           | Nguyễn Văn B |    Nữ    |   19xx   | 456 Đường B, phường C, quận D, TP E |
 
@@ -43,7 +43,6 @@
 - Programming Language: C#
 - [Microsoft Visual Studio 2017 and 2019 ](https://visualstudio.microsoft.com/)
 - [SQL Serrver Management Studio](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- (*Work in process*)
 
 
 ## Authors
