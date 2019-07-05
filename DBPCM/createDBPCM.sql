@@ -69,6 +69,7 @@ CREATE TABLE Thuoc
 (
 	ID int IDENTITY(1,1) PRIMARY KEY NOT NULL,
 	tenThuoc varchar(50) NOT NULL,
+	donviTinh char(10) NOT NULL,
 	giaThuoc decimal NOT NULL
 )
 
