@@ -34,13 +34,12 @@
 - Storage: 1GB of storage
 - VGA: Intergrated Graphic Card 
 - OS: Windows 7 64-bit
-- Internet access
 
 ## Installing
 *Work in process*
 
 ## Built with 
-- Programming Language: C#
+- Programming Language: C# with .Net Framework Version 4.7.2
 - [Microsoft Visual Studio 2017 and 2019 ](https://visualstudio.microsoft.com/)
 - [SQL Serrver Management Studio](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
