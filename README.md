@@ -1,7 +1,7 @@
-## University of Information Technology
-### Sofware Engineering Faculty
+# University of Information Technology
+# Faculty of Sofware Engineering
 
-# Private Clinic Management
+## Private Clinic Management
 
 - This is a simple, easy to use program of Private Clinic Management for school project, using C# and SQL Serrver.
 
