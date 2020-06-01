@@ -1,0 +1,4 @@
+linguist-vendored
+.tsql linguist-vendored=false
+.c# linguist-vendored=true
+
