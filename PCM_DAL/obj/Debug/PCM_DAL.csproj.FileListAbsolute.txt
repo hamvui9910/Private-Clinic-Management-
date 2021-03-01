@@ -1,0 +1,45 @@
+D:\Data\C#\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.dll
+D:\Data\C#\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.pdb
+D:\Data\C#\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.dll
+D:\Data\C#\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.pdb
+D:\Data\C#\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csprojAssemblyReference.cache
+D:\Data\C#\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CoreCompileInputs.cache
+D:\Data\C#\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CopyComplete
+D:\Data\C#\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.dll
+D:\Data\C#\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.pdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.dll
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.pdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.dll
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.pdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csprojAssemblyReference.cache
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CopyComplete
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.dll
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.pdb
+D:\Download\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.dll
+D:\Download\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.pdb
+D:\Download\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.dll
+D:\Download\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.pdb
+D:\Download\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csprojAssemblyReference.cache
+D:\Download\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CoreCompileInputs.cache
+D:\Download\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CopyComplete
+D:\Download\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.dll
+D:\Download\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.pdb
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.dll
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.pdb
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.dll
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.pdb
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CopyComplete
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.dll
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.pdb
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.dll
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DAL.pdb
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.dll
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_DAL\bin\Debug\PCM_DTO.pdb
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.csproj.CopyComplete
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.dll
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_DAL\obj\Debug\PCM_DAL.pdb

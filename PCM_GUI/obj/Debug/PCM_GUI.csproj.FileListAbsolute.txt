@@ -1,0 +1,163 @@
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe.config
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.pdb
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.dll
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.dll
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.dll
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.pdb
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.pdb
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.pdb
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csprojAssemblyReference.cache
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmKhamBenh.resources
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmMain.resources
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.Properties.Resources.resources
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.GenerateResource.cache
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CoreCompileInputs.cache
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CopyComplete
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.exe
+D:\Data\C#\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.pdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe.config
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.pdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.dll
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.dll
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.dll
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.pdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.pdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.pdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csprojAssemblyReference.cache
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmKhamBenh.resources
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmMain.resources
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.Properties.Resources.resources
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.GenerateResource.cache
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CopyComplete
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.exe
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.pdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmQuyDinh.resources
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csprojAssemblyReference.cache
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmQuyDinh.resources
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmKhamBenh.resources
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmMain.resources
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.Properties.Resources.resources
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.GenerateResource.cache
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CoreCompileInputs.cache
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.exe
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.pdb
+D:\Download\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe.config
+D:\Download\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe
+D:\Download\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.pdb
+D:\Download\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.dll
+D:\Download\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.dll
+D:\Download\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.dll
+D:\Download\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.pdb
+D:\Download\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.pdb
+D:\Download\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.pdb
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CopyComplete
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe.config
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.pdb
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.dll
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.dll
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.dll
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.pdb
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.pdb
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.pdb
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmQuyDinh.resources
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmKhamBenh.resources
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmMain.resources
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.Properties.Resources.resources
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CopyComplete
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.exe
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.pdb
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmThemBenhNhan.resources
+C:\Users\Acer\Desktop\New folder\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmBenhNhan.resources
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmBenhNhan.resources
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmHoaDon.resources
+D:\Download\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmThemBenhNhan.resources
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmBenhNhan.resources
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmHoaDon.resources
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmThemBenhNhan.resources
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\bin\Debug\Resources\Thuoc.accdb
+C:\Users\Nguyen\Desktop\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmPhieuKhamBenh.resources
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\Resources\Thuoc.accdb
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe.config
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.pdb
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.dll
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.dll
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.dll
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.pdb
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.pdb
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.pdb
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmBenhNhan.resources
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmHoaDon.resources
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmPhieuKhamBenh.resources
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmQuyDinh.resources
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmKhamBenh.resources
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmMain.resources
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmThemBenhNhan.resources
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.Properties.Resources.resources
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CopyComplete
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.exe
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.pdb
+C:\Users\Acer\Desktop\PrivateClinicManagement (1)\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmDoanhThuNgay.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\Resources\Thuoc.accdb
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe.config
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.pdb
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.dll
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.dll
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.dll
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.pdb
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.pdb
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.pdb
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csprojAssemblyReference.cache
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmBenhNhan.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmDoanhThuNgay.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmHoaDon.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmPhieuKhamBenh.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmQuyDinh.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmKhamBenh.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmMain.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmThemBenhNhan.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmTimKiemBN.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.Properties.Resources.resources
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.GenerateResource.cache
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CoreCompileInputs.cache
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CopyComplete
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.exe
+E:\Tài Liệu\PrivateClinicManagement3\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.pdb
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\Resources\Thuoc.accdb
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe.config
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.exe
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_GUI.pdb
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.dll
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.dll
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.dll
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_BUS.pdb
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DTO.pdb
+E:\PrivateClinicManagement\PCM_GUI\bin\Debug\PCM_DAL.pdb
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csprojAssemblyReference.cache
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmBenhNhan.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmDoanhThuNgay.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmHoaDon.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmPhieuKhamBenh.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmQuyDinh.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmKhamBenh.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmMain.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmThemBenhNhan.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmTimKiemBN.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.Properties.Resources.resources
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.GenerateResource.cache
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CoreCompileInputs.cache
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.csproj.CopyComplete
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.exe
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.pdb
+E:\PrivateClinicManagement\PCM_GUI\obj\Debug\PCM_GUI.frmSuDungThuoc.resources
