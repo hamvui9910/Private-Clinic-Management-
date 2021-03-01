@@ -50,7 +50,6 @@
 | 1 | Huỳnh Quốc An | 17520207 |
 | 2 | Nguyễn Đức Minh Nguyên | 17520823 |
 | 3 | Trương Nguyễn Tuấn Nam | 17520785 |
-| 4 | Phan Anh Khoa | 17520645 |
 
 ## Source Code
 [Download SourceCode here](https://drive.google.com/file/d/1rWtjdaD7k43hBUkZ7Naq4nRg7MGFnoG1/view?usp=sharing)
